@@ -9,8 +9,10 @@ def index():
         "data": {
             "regno":24122002,
             "name":"Abhinav",
-            "email":"abhinav@gmail.com"
+            "email":"abhinav@gmail.com",
+            "mob": 7748070503
         }
+
     }
 
 # TODO: Create CRUD API for this app
